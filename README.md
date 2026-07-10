@@ -24,7 +24,7 @@
 
 <br>
 
-## 1) Contribution Rhythm
+## Contribution Rhythm
 
 <p align="center">
   <img src="assets/github-contribution-grid-snake.svg" alt="Snake contribution graph" />
@@ -32,7 +32,7 @@
 
 <br>
 
-## 2) Profile Snapshot
+## Profile Snapshot
 
 ```yaml
 john@github:~$ whoami
@@ -55,7 +55,7 @@ goal: Build reliable software that creates measurable impact.
 
 <br>
 
-## 2) Engineering Domains
+## Engineering Domains
 
 <div align="center">
 
@@ -76,7 +76,7 @@ goal: Build reliable software that creates measurable impact.
 
 <br>
 
-## 3) Technology Arsenal
+## Technology Arsenal
 
 ### Languages
 
@@ -104,7 +104,7 @@ goal: Build reliable software that creates measurable impact.
 
 <br>
 
-## 4) Highlighted Projects
+## Highlighted Projects
 
 <div align="center">
 
@@ -175,7 +175,7 @@ goal: Build reliable software that creates measurable impact.
 
 <br>
 
-## 5) GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -210,7 +210,7 @@ goal: Build reliable software that creates measurable impact.
 
 <br>
 
-## 6) Current Focus
+## Current Focus
 
 <div align="center">
 
@@ -247,7 +247,7 @@ goal: Build reliable software that creates measurable impact.
 
 <br>
 
-## 7) Connect
+## Connect
 
 <div align="center">
   <a href="https://github.com/wefrdstho"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -257,7 +257,7 @@ goal: Build reliable software that creates measurable impact.
 
 <br>
 
-## 8) Engineering Philosophy
+## Engineering Philosophy
 
 <div align="center">
   <img src="https://img.shields.io/badge/Design-Intentional-7C3AED?style=flat-square" />
@@ -317,7 +317,7 @@ goal: Build reliable software that creates measurable impact.
 
 <br>
 
-## 9) Working Style
+## Working Style
 
 <div align="center">
   <img src="https://img.shields.io/badge/Workflow-Structured-9333EA?style=flat-square" />
@@ -346,7 +346,7 @@ goal: Build reliable software that creates measurable impact.
 
 <br>
 
-## 10) Preferred Technical Landscape
+## Preferred Technical Landscape
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-17%2B-007396?style=flat-square&logo=java&logoColor=white" />
@@ -373,7 +373,7 @@ goal: Build reliable software that creates measurable impact.
 
 <br>
 
-## 11) Learning Direction
+## Learning Direction
 
 <div align="center">
   <img src="https://img.shields.io/badge/Reading-Architecture-6366F1?style=flat-square" />
@@ -398,7 +398,7 @@ goal: Build reliable software that creates measurable impact.
 
 <br>
 
-## 12) Portfolio Notes
+## Portfolio Notes
 
 <div align="center">
   <img src="https://img.shields.io/badge/Direction-Builder-DC2626?style=flat-square" />
